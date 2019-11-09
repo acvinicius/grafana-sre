@@ -2,3 +2,5 @@
 docker-compose up -d
 #conectar no docker
 docker-compose exec mysql bash
+#servidores rodando
+docker-machine ls

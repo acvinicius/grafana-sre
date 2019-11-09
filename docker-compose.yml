@@ -59,4 +59,4 @@ services:
     environment:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=p0stgr@s
-      - POSTGRES_DB=netflix
+      - POSTGRES_DB=postgres
