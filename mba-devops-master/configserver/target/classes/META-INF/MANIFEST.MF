@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Config Server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: logonrmlocal
+Implementation-Vendor-Id: edu.fiap.aula2
+Build-Jdk: 1.8.0_212
+Implementation-URL: http://projects.spring.io/spring-boot/configuratio
+ nserver/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+Main-Class: edu.fiap.aula2.ConfigServerApplication
+

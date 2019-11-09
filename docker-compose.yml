@@ -60,3 +60,4 @@ services:
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=p0stgr@s
       - POSTGRES_DB=postgres
+  
